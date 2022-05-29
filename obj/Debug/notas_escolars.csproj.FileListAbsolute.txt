@@ -1,0 +1,10 @@
+C:\Users\nico\source\repos\notas_escolars\obj\Debug\notas_escolars.csproj.AssemblyReference.cache
+C:\Users\nico\source\repos\notas_escolars\obj\Debug\notas_escolars.Form1.resources
+C:\Users\nico\source\repos\notas_escolars\obj\Debug\notas_escolars.Properties.Resources.resources
+C:\Users\nico\source\repos\notas_escolars\obj\Debug\notas_escolars.csproj.GenerateResource.cache
+C:\Users\nico\source\repos\notas_escolars\obj\Debug\notas_escolars.csproj.CoreCompileInputs.cache
+C:\Users\nico\source\repos\notas_escolars\bin\Debug\notas_escolars.exe.config
+C:\Users\nico\source\repos\notas_escolars\bin\Debug\notas_escolars.exe
+C:\Users\nico\source\repos\notas_escolars\bin\Debug\notas_escolars.pdb
+C:\Users\nico\source\repos\notas_escolars\obj\Debug\notas_escolars.exe
+C:\Users\nico\source\repos\notas_escolars\obj\Debug\notas_escolars.pdb
